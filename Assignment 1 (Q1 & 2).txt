@@ -1,0 +1,17 @@
+COMP 4312 - Assignment 1
+Tyler McEwen	
+0870121
+
+1. SaaS - Software as a Service - allows users to use apps supplied by the service provider in a cloud infrastructure. These users don't manage or control the underlying
+cloud infrastructure, however. Not suitable for apps that require real-time response or those for which data is not allowed to be hosted externally. ex. Google Apps
+
+   PaaS - Platform as a Service - allows users to deploy consumer-created or acquired apps using programming languages and tools supported by the provider. In this service,
+the user has control over the deployed apps and possibly even over the app hosting environment conditions. Not suitable when the app must be portable, when proprietary 
+programming languages are used, or when the underlying hardware amd/or software must be customizable. ex. Heroku 
+
+   IaaS - Infrastructure as a Service - provides the capability to provision processing, storage, networks, and other fundamental computing resources. The user does not
+manage or control the underlying cloud infrastructure but has control over OS, storage, deployed apps, and possibly limited control of some networking components such as 
+host firewalls. ex. DigitalOcean 
+
+2. Grid computing involves operating on a distributed system consisting of a large number of loosely coupled, heterogeneous, and geographically dispersed systems in different
+administrative domains. Cloud computing, on the other hand, typically operates on centralized homogenous architecture and is more flexible than grid computing.
